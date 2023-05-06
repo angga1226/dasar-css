@@ -1,0 +1,37 @@
+body{
+	background-image:url(leaves.png);
+}
+	h1{
+		color:darkred;
+		font-family:Arial;
+		background-image:url(dark-grey-terrazzo.png);
+		text-align: center;
+	}
+
+
+	.hello:hover {
+		font-size: 20px;
+		color: red;
+	}
+	.anj li:nth-child(3n-2) a {
+		color: red;
+		background-color: blueviolet;
+		widows: 100px;
+		height: 100px;
+		display: inline-block;
+	}
+
+
+	.p2:hover {
+		font-size: 20px;
+		font-family: times new roman;
+		color: gold;
+	}
+	.main {
+		background-color: lightgreen;
+		text-align: justify;
+	}
+	.main span {
+		color: red;
+		font-size: 20px;
+	}
